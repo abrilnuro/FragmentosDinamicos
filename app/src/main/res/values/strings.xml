@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Fragmentos</string>
+    <string name="title_activity_tab_layout">TabLayoutActivity</string>
+</resources>
